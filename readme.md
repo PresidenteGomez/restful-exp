@@ -1,6 +1,13 @@
 # RESTful CRUD Phonebook example for shits and giggles.
 
-##STEPS:
+## Getting Started:
     [] Create basic file structure
     [] Create routes for basic communication
     [] Something else 
+
+### Software Installations That You Needs
+
+## Things to Remember
+```
+code
+```
